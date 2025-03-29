@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
-@import url('https://github.com/Nyanzuki/AzukiTheme/tree/main/all.min.css');
+@import url('https://raw.githubusercontent.com/Nyanzuki/AzukiTheme/refs/heads/main/all.min.css');
 
 @font-face {
     font-family: 'emoji';
-    src: url('https://github.com/Nyanzuki/AzukiTheme/tree/main/fonts/NotoColorEmoji.ttf') format('truetype');
+    src: url('https://raw.githubusercontent.com/Nyanzuki/AzukiTheme/refs/heads/main/fonts/NotoColorEmoji.ttf') format('truetype');
 }
 
 :root {
@@ -13,7 +13,7 @@
     --Watermark: "- AzukiUI v" var(--version);
     --font: 'Inter', 'emoji', sans-serif;
     --Text: rgb(255, 255, 255);
-    --logo: url(https://github.com/Nyanzuki/AzukiTheme/Images/home.png);
+    --logo: url(https://raw.githubusercontent.com/Nyanzuki/AzukiTheme/refs/heads/Images/home.png);
     --sendmessage-text-lines: 8;
     /* THEME COLORS */
     --Primary: rgb(50, 10, 200);
@@ -30,7 +30,7 @@
     --Offline: rgb(90, 95, 100);
     --Streaming: rgb(110, 0, 196);
     /* BACKGROUNDS */
-    --background: url(https://github.com/Nyanzuki/AzukiTheme/tree/main/images/AzukiBg.jpg);
+    --background: url(https://raw.githubusercontent.com/Nyanzuki/AzukiTheme/refs/heads/main/images/AzukiBg.jpg);
     --bg-titlebar: rgba(0, 0, 0, 0.65);
     --bg-servers: rgba(0, 0, 0, 0.65);
     --bg-ui: rgba(0, 0, 0, 0.65);
