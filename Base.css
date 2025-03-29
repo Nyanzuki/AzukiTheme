@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
-@import url('https://github.com/Nyanzuki/AzukiTheme/all.min.css');
+@import url('https://github.com/Nyanzuki/AzukiTheme/tree/main/all.min.css');
 
 @font-face {
     font-family: 'emoji';
-    src: url('https://github.com/Nyanzuki/AzukiTheme/fonts/NotoColorEmoji.ttf') format('truetype');
+    src: url('https://github.com/Nyanzuki/AzukiTheme/tree/main/fonts/NotoColorEmoji.ttf') format('truetype');
 }
 
 :root {
@@ -30,7 +30,7 @@
     --Offline: rgb(90, 95, 100);
     --Streaming: rgb(110, 0, 196);
     /* BACKGROUNDS */
-    --background: url(https://github.com/Nyanzuki/AzukiTheme/images/AzukiBg.jpg);
+    --background: url(https://github.com/Nyanzuki/AzukiTheme/tree/main/images/AzukiBg.jpg);
     --bg-titlebar: rgba(0, 0, 0, 0.65);
     --bg-servers: rgba(0, 0, 0, 0.65);
     --bg-ui: rgba(0, 0, 0, 0.65);
