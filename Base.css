@@ -3,7 +3,7 @@
 
 @font-face {
     font-family: 'emoji';
-    src: url('https://raw.githubusercontent.com/Nyanzuki/AzukiTheme/refs/heads/main/fonts/NotoColorEmoji.ttf') format('truetype');
+    src: url('https://github.com/Nyanzuki/AzukiTheme/raw/refs/heads/main/fonts/NotoColorEmoji.ttf') format('truetype');
 }
 
 :root {
